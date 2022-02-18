@@ -1,2 +1,1 @@
-# next-tailwind-scss-boilerplate
-🌴Boilerplate code for making a Next.js project with tailwind and scss
+# ⚙ Node-panel made from ![github.com/noderrz](https://github.com/noderrz/panel)'s panel
